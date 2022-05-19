@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCreadit", "TestCreadit\TestCreadit.csproj", "{69E6816C-41A4-4268-9926-DB1EC2E9BC7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCreadit.Database", "TestCreadit.Database\TestCreadit.Database.csproj", "{D07506E0-7495-447F-B3ED-5955FD43358F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69E6816C-41A4-4268-9926-DB1EC2E9BC7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69E6816C-41A4-4268-9926-DB1EC2E9BC7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69E6816C-41A4-4268-9926-DB1EC2E9BC7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69E6816C-41A4-4268-9926-DB1EC2E9BC7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D07506E0-7495-447F-B3ED-5955FD43358F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D07506E0-7495-447F-B3ED-5955FD43358F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D07506E0-7495-447F-B3ED-5955FD43358F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D07506E0-7495-447F-B3ED-5955FD43358F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

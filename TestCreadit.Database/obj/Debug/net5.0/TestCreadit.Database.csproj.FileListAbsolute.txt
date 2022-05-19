@@ -1,0 +1,15 @@
+C:\Users\mv15k\RiderProjects\TestCreadit\TestCreadit.Database\bin\Debug\net5.0\TestCreadit.Database.deps.json
+C:\Users\mv15k\RiderProjects\TestCreadit\TestCreadit.Database\bin\Debug\net5.0\TestCreadit.Database.runtimeconfig.json
+C:\Users\mv15k\RiderProjects\TestCreadit\TestCreadit.Database\bin\Debug\net5.0\TestCreadit.Database.runtimeconfig.dev.json
+C:\Users\mv15k\RiderProjects\TestCreadit\TestCreadit.Database\bin\Debug\net5.0\TestCreadit.Database.dll
+C:\Users\mv15k\RiderProjects\TestCreadit\TestCreadit.Database\bin\Debug\net5.0\ref\TestCreadit.Database.dll
+C:\Users\mv15k\RiderProjects\TestCreadit\TestCreadit.Database\bin\Debug\net5.0\TestCreadit.Database.pdb
+C:\Users\mv15k\RiderProjects\TestCreadit\TestCreadit.Database\obj\Debug\net5.0\TestCreadit.Database.csproj.AssemblyReference.cache
+C:\Users\mv15k\RiderProjects\TestCreadit\TestCreadit.Database\obj\Debug\net5.0\TestCreadit.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mv15k\RiderProjects\TestCreadit\TestCreadit.Database\obj\Debug\net5.0\TestCreadit.Database.AssemblyInfoInputs.cache
+C:\Users\mv15k\RiderProjects\TestCreadit\TestCreadit.Database\obj\Debug\net5.0\TestCreadit.Database.AssemblyInfo.cs
+C:\Users\mv15k\RiderProjects\TestCreadit\TestCreadit.Database\obj\Debug\net5.0\TestCreadit.Database.csproj.CoreCompileInputs.cache
+C:\Users\mv15k\RiderProjects\TestCreadit\TestCreadit.Database\obj\Debug\net5.0\TestCreadit.Database.dll
+C:\Users\mv15k\RiderProjects\TestCreadit\TestCreadit.Database\obj\Debug\net5.0\ref\TestCreadit.Database.dll
+C:\Users\mv15k\RiderProjects\TestCreadit\TestCreadit.Database\obj\Debug\net5.0\TestCreadit.Database.pdb
+C:\Users\mv15k\RiderProjects\TestCreadit\TestCreadit.Database\obj\Debug\net5.0\TestCreadit.Database.genruntimeconfig.cache
